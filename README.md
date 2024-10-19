@@ -1,6 +1,6 @@
 # SOTA-DL-EchoSegmentation
 Evaluation of state-of-the-art (SOTA) deep learning (DL) models in the segmentation of left and right ventricles in parasternal short-axis echocardiograms (PSAX-echo)
-SIUE Biomedical Imaging Research Lab - BIRL
+- SIUE Biomedical Imaging Research Lab - BIRL
 ..:: https://siue-biomedicalimaginglab.com/ ::..
 
 A deep learning based approach to segment medical echocardiography PSAX images into its 3 main heart structures:
