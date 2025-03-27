@@ -4,13 +4,9 @@ Evaluation of state-of-the-art (SOTA) deep learning (DL) models in the segmentat
 ..:: https://siue-biomedicalimaginglab.com/ ::..
 
 A deep learning based approach to segment medical echocardiography PSAX images into its 3 main heart structures:
-* Left chamber
-* Left myocardium
-* Right ventricle
-
-Based on 
-https://github.com/raventan95/echo-plax-segmentation
-
+* Left ventricle (LV)
+* Left myocardium (LM)
+* Right ventricle (RV)
 
 ## Introduction
 
